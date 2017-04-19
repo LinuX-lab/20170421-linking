@@ -3,4 +3,5 @@
 *.ldscript
 *.src
 *.map
+*.rel
 *.o

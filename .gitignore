@@ -1,0 +1,6 @@
+*.libc
+*.bare
+*.ldscript
+*.src
+*.map
+*.o
